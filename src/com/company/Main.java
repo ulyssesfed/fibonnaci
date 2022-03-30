@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// print the fibonacci sequence up to the nth number, n is user input
         Scanner scanner = new Scanner(System.in);
     System.out.println("Enter a number: ");
     int n = scanner.nextInt();
